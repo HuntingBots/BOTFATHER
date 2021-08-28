@@ -1,5 +1,5 @@
 {
-      "name": "PainRobot",
+      "name": "BOTFATHER",
       "description": "An Anime themed Telegram group management bot.",
       "keywords": [
          "telegram",
@@ -8,7 +8,7 @@
          "manager",
          "pain"
       ],   
-   "repository": "https://github.com/PAINBOI2008/PainRobot",
+   "repository": "https://github.com/ZARUUUU/BOTFATHER",
    "addons": [
       {
          "options": {
